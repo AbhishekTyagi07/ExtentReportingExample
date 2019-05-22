@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Mercury Newtours Test(failed)">
+    <classes>
+      <class name="TestCases.TC_Login">
+        <methods>
+          <include name="initializeDriver"/>
+          <include name="DateCheck"/>
+          <include name="Login"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- TestCases.TC_Login -->
+    </classes>
+  </test> <!-- Mercury Newtours Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
