@@ -5,7 +5,9 @@
     <classes>
       <class name="TestCases.TC_Login">
         <methods>
+          <include name="endTest"/>
           <include name="initializeDriver"/>
+          <include name="startTest"/>
           <include name="DateCheck"/>
           <include name="Login"/>
           <include name="quitDriver"/>

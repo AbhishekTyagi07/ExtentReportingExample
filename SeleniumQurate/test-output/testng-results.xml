@@ -2,40 +2,40 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="68318" started-at="2018-12-07T08:57:34Z" finished-at="2018-12-07T08:58:42Z">
+  <suite name="Suite" duration-ms="47037" started-at="2019-05-22T12:36:49Z" finished-at="2019-05-22T12:37:36Z">
     <groups>
     </groups>
-    <test name="Mercury Newtours Test" duration-ms="68318" started-at="2018-12-07T08:57:34Z" finished-at="2018-12-07T08:58:42Z">
+    <test name="Mercury Newtours Test" duration-ms="47037" started-at="2019-05-22T12:36:49Z" finished-at="2019-05-22T12:37:36Z">
       <class name="TestCases.TC_Login">
-        <test-method status="PASS" signature="startTest()[pri:0, instance:TestCases.TC_Login@9a7504c]" name="startTest" is-config="true" duration-ms="247" started-at="2018-12-07T08:57:34Z" finished-at="2018-12-07T08:57:34Z">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:TestCases.TC_Login@32d2fa64]" name="startTest" is-config="true" duration-ms="151" started-at="2019-05-22T12:36:49Z" finished-at="2019-05-22T12:36:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTest -->
-        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:TestCases.TC_Login@9a7504c]" name="initializeDriver" is-config="true" duration-ms="7535" started-at="2018-12-07T08:57:34Z" finished-at="2018-12-07T08:57:42Z">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:TestCases.TC_Login@32d2fa64]" name="initializeDriver" is-config="true" duration-ms="12059" started-at="2019-05-22T12:36:49Z" finished-at="2019-05-22T12:37:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDriver -->
-        <test-method status="PASS" signature="DateCheck()[pri:0, instance:TestCases.TC_Login@9a7504c]" name="DateCheck" duration-ms="126" started-at="2018-12-07T08:57:42Z" finished-at="2018-12-07T08:57:42Z">
+        <test-method status="PASS" signature="DateCheck()[pri:0, instance:TestCases.TC_Login@32d2fa64]" name="DateCheck" duration-ms="85" started-at="2019-05-22T12:37:01Z" finished-at="2019-05-22T12:37:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DateCheck -->
-        <test-method status="PASS" signature="quitDriver()[pri:0, instance:TestCases.TC_Login@9a7504c]" name="quitDriver" is-config="true" duration-ms="838" started-at="2018-12-07T08:57:42Z" finished-at="2018-12-07T08:57:43Z">
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:TestCases.TC_Login@32d2fa64]" name="quitDriver" is-config="true" duration-ms="638" started-at="2019-05-22T12:37:01Z" finished-at="2019-05-22T12:37:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
-        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:TestCases.TC_Login@9a7504c]" name="initializeDriver" is-config="true" duration-ms="5955" started-at="2018-12-07T08:57:43Z" finished-at="2018-12-07T08:57:49Z">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:TestCases.TC_Login@32d2fa64]" name="initializeDriver" is-config="true" duration-ms="11281" started-at="2019-05-22T12:37:02Z" finished-at="2019-05-22T12:37:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDriver -->
-        <test-method status="PASS" signature="Login()[pri:1, instance:TestCases.TC_Login@9a7504c]" name="Login" duration-ms="52248" started-at="2018-12-07T08:57:49Z" finished-at="2018-12-07T08:58:41Z">
+        <test-method status="PASS" signature="Login()[pri:1, instance:TestCases.TC_Login@32d2fa64]" name="Login" duration-ms="21933" started-at="2019-05-22T12:37:13Z" finished-at="2019-05-22T12:37:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="PASS" signature="quitDriver()[pri:0, instance:TestCases.TC_Login@9a7504c]" name="quitDriver" is-config="true" duration-ms="871" started-at="2018-12-07T08:58:41Z" finished-at="2018-12-07T08:58:42Z">
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:TestCases.TC_Login@32d2fa64]" name="quitDriver" is-config="true" duration-ms="652" started-at="2019-05-22T12:37:35Z" finished-at="2019-05-22T12:37:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:TestCases.TC_Login@9a7504c]" name="endTest" is-config="true" duration-ms="482" started-at="2018-12-07T08:58:42Z" finished-at="2018-12-07T08:58:42Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:TestCases.TC_Login@32d2fa64]" name="endTest" is-config="true" duration-ms="221" started-at="2019-05-22T12:37:36Z" finished-at="2019-05-22T12:37:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
